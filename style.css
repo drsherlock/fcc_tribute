@@ -1,0 +1,30 @@
+html,
+body {
+  background: url("https://wallpaperscraft.com/image/lightning_sky_lines_elements_peal_14660_3840x2400.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 1.3em;
+}
+
+h1 {
+  font-family: 'Bungee Shade', cursive;
+}
+
+h3 {
+  font-size: 2.2em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+.container {
+  margin-top: 60px;
+  line-height: 150%;
+}
+
+ul {
+  list-style-position: inside;
+}
